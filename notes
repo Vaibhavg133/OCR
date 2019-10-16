@@ -1,0 +1,11 @@
+Install Tessaract : sudo apt-get install tessaract-ocr
+Basically in tesseract you just need to give the input in form of image and store the output in text file
+Syntax : tesseract input.jpg output
+
+Implementation using Python
+---------------------------
+Install following libraries
+ sudo pip3 install pillow (image processing library)
+ sudo pip3 install pytesseract
+
+
